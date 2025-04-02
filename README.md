@@ -100,8 +100,8 @@ npm run dev
 
 Untuk informasi lebih lanjut tentang e-BLUD atau bantuan teknis, silakan hubungi:
 
-**Pusat Pendidikan dan Pelatihan (Pusdiklat) Pemda**  
-Email: habizinnia@gmail.com 
+Pusat Pendidikan dan Pelatihan (Pusdiklat) Pemda
+Email: info@pusdiklatpemda.go.id
 Telepon: (021) XXX-XXXX
 
 ---
